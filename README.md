@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently student of Software Engineering.<br>👯 I’m looking to collaborate on different projects to gain more experience.<br>🤝 I’m looking for help for my coding journey.<br>🌱 I’m currently learning Flutter.<br>
+🔭 I’m currently student of Software Engineering.<br>👯 I’m looking to collaborate on different projects to gain more experience.<br>🤝 I’m looking for help for my coding journey.<br>🌱 I’m currently learning MERN.<br>
 
 
 ## 🌐 Socials:
