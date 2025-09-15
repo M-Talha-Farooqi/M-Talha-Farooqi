@@ -1,5 +1,5 @@
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=M-Talha-Farooqi&label=Profile%20views&color=0e75b6&style=flat" alt="M-Talha-Farooqi" /> 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=M-Talha-Farooqi&label=PROFILE+VIEWS&base=5000&color=blueviolet&style=for-the-badge &abbreviated=true " alt="M-Talha-Farooqi" /> 
 </p>
 
 # 💫 About Me:
