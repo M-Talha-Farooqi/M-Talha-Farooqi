@@ -1,3 +1,7 @@
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=M-Talha-Farooqi&label=Profile%20views&color=0e75b6&style=flat" alt="M-Talha-Farooqi" /> 
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on MERN Stack<br>👯 I’m looking to collaborate on innovative projects<br>🌱 I’m currently learning React Native
 
