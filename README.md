@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=M-Talha-Farooqi&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge&base=1000" alt="M-Talha-Farooqi" />
+  <img src="https://komarev.com/ghpvc/?username=M-Talha-Farooqi&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge&base=5000&abbreviated=true " alt="M-Talha-Farooqi" />
 </p>
 
 
