@@ -1,6 +1,7 @@
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=M-Talha-Farooqi&label=PROFILE+VIEWS&base=5000&color=blueviolet&style=for-the-badge &abbreviated=true " alt="M-Talha-Farooqi" /> 
+  <img src="https://komarev.com/ghpvc/?username=M-Talha-Farooqi&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="M-Talha-Farooqi" />
 </p>
+
 
 # 💫 About Me:
 🔭 I’m currently working on MERN Stack<br>👯 I’m looking to collaborate on innovative projects<br>🌱 I’m currently learning React Native
