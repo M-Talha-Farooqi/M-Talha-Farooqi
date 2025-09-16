@@ -1,5 +1,7 @@
 name: GitHub Snake Game
 
+permissions:
+  contents: write
 
 
 on:
@@ -78,7 +80,20 @@ jobs:
 
 
 
-      # Step 3: Deploy the generated files to the 'output' branch
+      # Step 3: Create output branch if missing
+      - name: Create output branch if missing
+        run: |
+          git fetch origin
+          if ! git ls-remote --exit-code --heads origin output; then
+            git checkout --orphan output
+            git rm -rf .
+            echo "# Output Branch" > README.md
+            git add README.md
+            git commit -m "Initial output branch commit"
+            git push origin output
+          fi
+
+      # Step 4: Deploy the generated files to the 'output' branch
 
       - name: Deploy to Output Branch
 
