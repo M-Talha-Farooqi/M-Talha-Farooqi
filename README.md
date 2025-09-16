@@ -7,15 +7,17 @@
   <img src="https://komarev.com/ghpvc/?username=M-Talha-Farooqi&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge&base=5300&abbreviated=true " alt="M-Talha-Farooqi" />
 </p>
 
+# 💫 About Me:
+🔭 I’m currently working on MERN Stack<br>👯 I’m looking to collaborate on innovative projects<br>🌱 I’m currently learning React Native
+
+
 <p align="center">
     <img style="height:10rem;" src="https://github-readme-stats.vercel.app/api?username=M-Talha-Farooqi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" />
     <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Talha-Farooqi&theme=radical&show_icons=true&border=e4e2e2" />
+  
 </p>
+<img align="center" width="450" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Talha-Farooqi&layout=compact&hide=HTML&langs_count=10&bg_color=0,EE82EE,FFFFFF&theme=graywhite"/>
 
-
-
-# 💫 About Me:
-🔭 I’m currently working on MERN Stack<br>👯 I’m looking to collaborate on innovative projects<br>🌱 I’m currently learning React Native
 
 
 ## 🌐 Socials:
