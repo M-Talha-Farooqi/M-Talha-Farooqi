@@ -1,6 +1,17 @@
+<div align="center">
+  <img src="banner.png" alt="Banner" style="max-width:100%;height:auto;" />
+</div>
+
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=M-Talha-Farooqi&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge&base=5300&abbreviated=true " alt="M-Talha-Farooqi" />
 </p>
+
+<p align="center">
+    <img style="height:10rem;" src="https://github-readme-stats.vercel.app/api?username=M-Talha-Farooqi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" />
+    <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Talha-Farooqi&theme=radical&show_icons=true&border=e4e2e2" />
+</p>
+
 
 
 # 💫 About Me:
