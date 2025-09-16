@@ -7,6 +7,10 @@
   <img src="https://komarev.com/ghpvc/?username=M-Talha-Farooqi&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge&base=5300&abbreviated=true " alt="M-Talha-Farooqi" />
 </p>
 
+<div>
+![snake gif](https://github.com/M-Talha-Farooqi/M-Talha-Farooqi/blob/output/github-snake.svg)
+</div>
+
 # 💫 About Me:
 🔭 I’m currently working on MERN Stack<br>👯 I’m looking to collaborate on innovative projects<br>🌱 I’m currently learning React Native
 
