@@ -19,26 +19,80 @@
 </p>
 
 
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td align="left" width="70%" style="border: none; vertical-align: top;">
+      <h3>✨ A Glimpse Into My World ✨</h3>
+      <ul style="list-style-type:none; padding-left:0; margin-top:0;">
+        <li>💡 Passionate about <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Deep Learning</b>.</li>
+        <li>🧩 Love solving <b>Data Structures & Algorithms</b> problems — one logic at a time.</li>
+        <li>🚀 Exploring <b>Full-Stack Web Development</b> with a flair for clean UI and solid backend logic.</li>
+        <li>🔬 Blending <b>AI research</b> with real-world development — because ideas deserve implementation.</li>
+        <li>🧠 Lifelong learner — curious about everything from <b>Computer Vision</b> to <b>Generative AI</b>.</li>
+        <li>🌙 Fueled by creativity, tradition, and the quiet beauty of midnight code sessions.</li>
+      </ul>
+    </td>
+    <td align="right" width="30%" style="border: none; vertical-align: middle;">
+      <img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width="300" alt="Coding" />
+    </td>
+  </tr>
+</table>
 
 
 
-<h2 align="left">🛠️ Technologies I Work With</h2>
+
+
+<h2 align="left">🛠️ &nbsp;Technologies I Work With</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,py,cpp,java&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,react,nextjs,threejs,nodejs,express&perline=12" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,nodejs,express,mysql,mongodb,supabase&perline=8" />
+  <img src="https://skillicons.dev/icons?i=py,ai,sklearn,tensorflow,pytorch,opencv,fastapi,graphql,cpp,java&perline=12" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,sklearn,tensorflow,pytorch,opencv,docker,figma,redis&perline=8" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,redis,firebase,prisma,git,gitlab,docker,kubernetes&perline=12" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=postman,aws,azure,drizzle&perline=8" />
+  <img src="https://skillicons.dev/icons?i=gcp,aws,azure,linux,apple,vercel,heroku,postman,figma,django&perline=12" />
 </p>
 
 
-<!-- Snake Game Eating My Contribution Graph -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/M-Talha-Farooqi/M-Talha-Farooqi/output/github-snake.svg" alt="Snake animation" />
-</p>
+
+<h2 align="left">🎵 &nbsp;Currently Vibing On Spotify</h2>
+
+<div align= "center">
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=7hiyqnkbhiy54q3llhhi575zt&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=7hiyqnkbhiy54q3llhhi575zt&redirect=true)
+</align>
+
+</div>
+<div align="center">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/christmasparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+     <img src="https://cultofthepartyparrot.com/parrots/hd/evilparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/coffeeparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/thumbsupparrot.gif" width="30" height="30"/>
+      <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+        <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/congapartyparrot.gif" width="30" height="30"/>  
+      <img src="https://cultofthepartyparrot.com/parrots/hd/twinsparrot.gif" width="30" height="30"/>
+</div>
+
+
+<h2 align="left">📜 &nbsp;My Articles</h3>
+<div align="center">
+
+[![Medium](https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adityakanoi123)
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://thedefenceengineer.quora.com/)
+
+</div>
 
 <!-- Problem in Fetching. I will fix it later. InshaAllah :)
 <p align="center">
@@ -51,11 +105,7 @@
 </p> 
 -->
 <!-- Connect With Me Section -->
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
-  </ul>
-</div>
+<h2 align="left">🤝 Connect With Me</h2>
 
 <!-- Social Media Icons -->
 <p align="center">
@@ -74,8 +124,28 @@
 </p>
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 
-  
+
+
+
+<!-- Snake Game Eating My Contribution Graph -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/M-Talha-Farooqi/M-Talha-Farooqi/output/github-snake.svg" alt="Snake animation" />
+</p>
+
+## 💖 Support My Work
+
+Thank you for stopping by my corner of GitHub! 🌟  
+If you enjoy my projects, designs, or open-source contributions — or just wanna fuel my next late-night coding sprint — you can show a little love here:
+
+<p align="left">
+  <a href="https://ko-fi.com/mtalhafarooqi" target="_blank">
+    <img src="https://cdn.ko-fi.com/cdn/kofi1.png?v=3" height="50" alt="Buy Me a Coffee at ko-fi.com" />
+  </a>
+</p>
+
+Every coffee ☕ helps keep the code alive, the commits clean, and the ideas glowing.  
+If you’d like to **collaborate, suggest ideas, or contribute**, feel free to open an issue or reach out —  
+I’m always open to learning and building together. 🤝
+
