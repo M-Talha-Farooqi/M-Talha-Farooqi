@@ -56,7 +56,7 @@
 
 
 
-<h2 align="left">🎵 &nbsp;Currently Vibing On Spotify</h2>
+<h2 align="left">🎧 &nbsp;Now Playing On Spotify</h2>
 
 <div align= "center">
   
