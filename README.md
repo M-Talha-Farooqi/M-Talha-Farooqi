@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&color=%23C8BE25&width=700&height=60&lines=Final+Year+Software+Engineering+Student;Full+Stack+Web+Developer;AI+and+Computer+Vision+Developer;Undergraduate+Researcher;Open+Source+Contributor" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&color=%23C8BE25&width=700&height=60&lines=Final+Year+Software+Engineering+Student;Full+Stack+Web+Developer;AI+Engineer;Undergraduate+Researcher;Open+Source+Contributor" />
   </a>
 </p>
 
