@@ -55,13 +55,13 @@
 </p>
 
 
-<h2 align="left">📜 &nbsp;My Articles</h3>
+<!-- <h2 align="left">📜 &nbsp;My Articles</h3>
 <div align="center">
 
 [![Medium](https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adityakanoi123)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://thedefenceengineer.quora.com/)
 
-</div>
+</div> -->
 
 
 
