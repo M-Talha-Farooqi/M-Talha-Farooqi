@@ -24,11 +24,12 @@
     <td align="left" width="70%" style="border: none; vertical-align: top;">
       <h3>✨ A Glimpse Into My World ✨</h3>
       <ul style="list-style-type:none; padding-left:0; margin-top:0;">
+        <li>🚀 Experienced in  <b>Full-Stack Web Development</b>, more specifically MERN.</li>      
         <li>💡 Passionate about <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Deep Learning</b>.</li>
+        <li>🧑‍💻 Future AI Engineer </li>
         <li>🧩 Love solving <b>Data Structures & Algorithms</b> problems </li>
-        <li>🚀 Exploring <b>Full-Stack Web Development</b> with a flair for clean UI and solid backend logic.</li>
-        <li>🔬 Blending <b>AI research</b> with real-world development — because ideas deserve implementation.</li>
-        <li>🧠 Lifelong learner — curious about everything from <b>Computer Vision</b> to <b>Generative AI</b>.</li>
+        <li>🔬<b>Researcher in Computer Vision</b> with real-world development — because ideas deserve implementation.</li>
+        <li>🧠 Curious about everything from <b>Computer Vision</b> to <b>Generative AI</b>.</li>
       </ul>
     </td>
     <td align="right" width="30%" style="border: none; vertical-align: middle;">
