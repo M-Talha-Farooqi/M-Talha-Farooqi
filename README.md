@@ -25,7 +25,7 @@
       <h3>✨ A Glimpse Into My World ✨</h3>
       <ul style="list-style-type:none; padding-left:0; margin-top:0;">
         <li>💡 Passionate about <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Deep Learning</b>.</li>
-        <li>🧩 Love solving <b>Data Structures & Algorithms</b> problems — one logic at a time.</li>
+        <li>🧩 Love solving <b>Data Structures & Algorithms</b> problems </li>
         <li>🚀 Exploring <b>Full-Stack Web Development</b> with a flair for clean UI and solid backend logic.</li>
         <li>🔬 Blending <b>AI research</b> with real-world development — because ideas deserve implementation.</li>
         <li>🧠 Lifelong learner — curious about everything from <b>Computer Vision</b> to <b>Generative AI</b>.</li>
