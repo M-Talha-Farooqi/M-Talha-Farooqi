@@ -22,7 +22,7 @@
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td align="left" width="70%" style="border: none; vertical-align: top;">
-      <h3>✨ A Glimpse Into My World ✨</h3>
+      <h3>✨ A Glimpse Into My World </h3>
       <ul style="list-style-type:none; padding-left:0; margin-top:0;">
         <li>🚀 Experienced in  <b>Full-Stack Web Development</b>, more specifically MERN.</li>      
         <li>💡 Passionate about <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Deep Learning</b>.</li>
