@@ -29,7 +29,6 @@
         <li>🚀 Exploring <b>Full-Stack Web Development</b> with a flair for clean UI and solid backend logic.</li>
         <li>🔬 Blending <b>AI research</b> with real-world development — because ideas deserve implementation.</li>
         <li>🧠 Lifelong learner — curious about everything from <b>Computer Vision</b> to <b>Generative AI</b>.</li>
-        <li>🌙 Fueled by creativity, tradition, and the quiet beauty of midnight code sessions.</li>
       </ul>
     </td>
     <td align="right" width="30%" style="border: none; vertical-align: middle;">
