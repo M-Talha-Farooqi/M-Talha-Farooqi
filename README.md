@@ -139,7 +139,6 @@
 ## 💖 Support My Work
 
 Thank you for stopping by my corner of GitHub! 🌟  
-If you enjoy my projects, designs, or open-source contributions — or just wanna fuel my next late-night coding sprint — you can show a little love here:
 
 <p align="left">
   <a href="https://ko-fi.com/mtalhafarooqi" target="_blank">
@@ -147,7 +146,4 @@ If you enjoy my projects, designs, or open-source contributions — or just wann
   </a>
 </p>
 
-Every coffee ☕ helps keep the code alive, the commits clean, and the ideas glowing.  
-If you’d like to **collaborate, suggest ideas, or contribute**, feel free to open an issue or reach out —  
-I’m always open to learning and building together. 🤝
 
