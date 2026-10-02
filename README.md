@@ -20,38 +20,11 @@
   </a>
 </p>
 
-<table>
-  <tr>
-    <td width="68%" valign="top">
-      <h3>About Me</h3>
-      <p>
-        <b>Full-Stack Developer</b> experienced in building modern and scalable web and mobile applications.
-      </p>
-      <p>
-        Working with <b>Artificial Intelligence</b>, <b>Machine Learning</b>, <b>Deep Learning</b>, and <b>Computer Vision</b>.
-      </p>
-      <p>
-        Experienced with the <b>MERN Stack</b> and end-to-end application development.
-      </p>
-      <p>
-        <b>Computer Vision Researcher</b> focused on applying research to practical, real-world systems.
-      </p>
-      <p>
-        Exploring <b>Generative AI</b>, <b>Agentic AI</b>, and intelligent automation.
-      </p>
-      <p>
-        Interested in <b>Data Structures & Algorithms</b>, problem-solving, and production-ready software development.
-      </p>
-    </td>
-    <td width="32%" align="center" valign="middle">
-      <img
-        src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif"
-        width="280"
-        alt="Software Development"
-      />
-    </td>
-  </tr>
-</table>
+<h3>About Me</h3>
+
+<p>
+  I'm a <b>Full-Stack Developer</b> and <b>AI Engineer</b> with experience building scalable web and mobile applications and developing intelligent systems. My work spans <b>Artificial Intelligence</b>, <b>Machine Learning</b>, <b>Deep Learning</b>, and <b>Computer Vision</b>, with a strong interest in turning research ideas into practical, real-world solutions. I also explore <b>Generative AI</b>, <b>Agentic AI</b>, and intelligent automation while continuously strengthening my problem-solving skills through <b>Data Structures & Algorithms</b>.
+</p>
 
 
 
