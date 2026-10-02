@@ -11,29 +11,44 @@
 <!-- Introduction Header with Typing Animation -->
 <h1 align="center">Assalamu Alaikum!  I'm M. Talha Farooqi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
 
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&color=%23C8BE25&width=700&height=60&lines=AI+Engineer;Full+Stack+Developer;AI+Researcher;Open+Source+Contributor" />
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=C8BE25&center=true&vCenter=true&width=750&height=60&lines=AI+Engineer;Full-Stack+Developer;AI+Researcher;Open+Source+Contributor"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
-
-<table style="border: none; border-collapse: collapse;">
+<table>
   <tr>
-    <td align="left" width="70%" style="border: none; vertical-align: top;">
-      <h3>✨ A Glimpse Into My World </h3>
-      <ul style="list-style-type:none; padding-left:0; margin-top:0;">
-        <li>🚀 Experienced in  <b>Full-Stack Web Development</b>, more specifically MERN.</li>      
-        <li>💡 Passionate about <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Deep Learning</b>.</li>
-        <li>🧑‍💻 Future AI Engineer </li>
-        <li>🧩 Love solving <b>Data Structures & Algorithms</b> problems </li>
-        <li>🔬<b>Researcher in Computer Vision</b> with real-world development — because ideas deserve implementation.</li>
-        <li>🧠 Curious about everything from <b>Computer Vision</b> to <b>Generative AI</b>.</li>
-      </ul>
+    <td width="68%" valign="top">
+      <h3>About Me</h3>
+      <p>
+        <b>Full-Stack Developer</b> experienced in building modern and scalable web and mobile applications.
+      </p>
+      <p>
+        Working with <b>Artificial Intelligence</b>, <b>Machine Learning</b>, <b>Deep Learning</b>, and <b>Computer Vision</b>.
+      </p>
+      <p>
+        Experienced with the <b>MERN Stack</b> and end-to-end application development.
+      </p>
+      <p>
+        <b>Computer Vision Researcher</b> focused on applying research to practical, real-world systems.
+      </p>
+      <p>
+        Exploring <b>Generative AI</b>, <b>Agentic AI</b>, and intelligent automation.
+      </p>
+      <p>
+        Interested in <b>Data Structures & Algorithms</b>, problem-solving, and production-ready software development.
+      </p>
     </td>
-    <td align="right" width="30%" style="border: none; vertical-align: middle;">
-      <img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width="300" alt="Coding" />
+    <td width="32%" align="center" valign="middle">
+      <img
+        src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif"
+        width="280"
+        alt="Software Development"
+      />
     </td>
   </tr>
 </table>
